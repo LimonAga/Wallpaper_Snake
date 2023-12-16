@@ -1,6 +1,8 @@
 # Wallpaper_Snake
 Snake game on your wallpaper.
 
+![snake](snake.png)
+
 # Controls
 
 -Before Starting the Game:
